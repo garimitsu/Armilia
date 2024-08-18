@@ -9,3 +9,46 @@ Wrapped in Entropy, she tried to reach out her hand…
 Lia: “Mother?..”
 
 ===
+
+title: Defeat NoContract
+---
+
+Entropy has prevailed.
+You lost.
+Akaris: “Hmmm…”
+Akaris: “Perhaps you shouldn’t have declined my offer.”
+Akaris: “Care to reconsider?”
+
+===
+
+title: Defeat WithContract
+---
+
+Entropy has prevailed.
+You lost.
+Akaris: “Be mindful of your thoughts, my darling.”
+Akaris: “They can either be the biggest help or the worst distraction.”
+Lia: “I will…”
+
+===
+
+title: Victory NoContract
+---
+
+Adeonia shines eternal.
+You won.
+Akaris: “Hmmm…”
+Akaris: “Perhaps you haven’t lost as much of your power as I thought you have.”
+
+===
+
+title: Victory WithContract
+---
+
+Adeonia shines eternal.
+You won.
+Akaris: “Hail Lord Adeon, our divine father.”
+Akaris: “Now you’re one step closer to getting back what’s yours.”
+Lia: “Hail Lord Adeon!”
+
+===
