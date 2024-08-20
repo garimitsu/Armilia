@@ -47,6 +47,8 @@ Adeonia shines eternal.
 You won.
 Akaris: “Hmmm…”
 Akaris: “Perhaps you haven’t lost as much of your power as I thought you have.”
+You've unlocked a new Orb of Reminiscence.
+Akaris: "What do you recall now?"
 
 ===
 
@@ -58,5 +60,41 @@ You won.
 Akaris: “Hail Lord Adeon, our divine father.”
 Akaris: “Now you’re one step closer to getting back what’s yours.”
 Lia: “Hail Lord Adeon!”
+You've unlocked a new Orb of Reminiscence.
+Akaris: "What do you recall now?"
 
 ===
+
+title: PreEnd
+---
+
+Adeonia shines eternal on those who remember.
+You've reclaimed your Memories...
+...but not your Authority. 
+Akaris: "You've done well, my darling."
+Akaris: "But this is not the end."
+Akaris: "Now you know who your next enemy is."
+Lia: "Mara... Sentinel of Darkness."
+Akaris: "You've trained well, and now you're strong enough to face him."
+Lia: "For Adeonia..."
+Akaris: "For divinity."
+
+===
+
+title: FinalEnd
+---
+
+Adeonia shines eternal on those who indulge in Light.
+You've reclaimed your Authority.
+Akaris: "Commendable job, my darling."
+Akaris: "Now you're back to being..."
+Akaris: "An Ode. To Winged. Invicta."
+Lia: "You have my gratitude, Exalted."
+Lia: "I wouldn't have done it without your help."
+Lia: "Home feels closer than ever... yet farthest than it could possibly be."
+Lia: "What now?"
+Akaris: "You know yourself, don't you?"
+Akaris: "You have but two options: search for Mother Invidia in the endless Cosmos..."
+Akaris: "...or in one of the endless worlds scattered across it."
+Lia: "Will you stay by my side?"
+Akaris: "If you ask nicely, darling."
